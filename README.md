@@ -73,6 +73,10 @@ BookVerse is a modern digital library web application that allows users to explo
 - Google Fonts (Inter, Playfair Display)
 
 ---
+## Screenshots
+
+
+---
 
 ## ⚙️ Setup Instructions
 
