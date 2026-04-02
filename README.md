@@ -77,16 +77,16 @@ BookVerse is a modern digital library web application that allows users to explo
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](./library-management/screenshots/home-page.png)
+![Home Page](./screenshots/home-page.png)
 
 ### 📊 Dashboard
-![Dashboard](./library-management/screenshots/dashboard-page.png)
+![Dashboard](./screenshots/dashboard-page.png)
 
 ### 📚 popup
-![Popup](./library-management/screenshots/popup-page.png)
+![Popup](./screenshots/popup-page.png)
 
 ### 📘 library
-![My library](./library-management/screenshots/library-page.png)
+![My library](./screenshots/library-page.png)
 
 ---
 
